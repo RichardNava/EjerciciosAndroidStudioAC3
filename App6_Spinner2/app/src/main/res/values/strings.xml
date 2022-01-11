@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mi Calculadora (Spinner)</string>
+    <string name="etnNum1">Ingrese operando 1</string>
+    <string name="etnNum2">Ingrese operando 2</string>
+    <string name="spinner">Menu operaciones</string>
+    <string name="btnCalc">CALCULAR</string>
+    <string name="tvResult">RESULTADO</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EVALUACION APP</string>
+    <string name="tv_title">CALCULADORA DE PROMEDIOS</string>
+    <string name="etn1_mat">Matemáticas</string>
+    <string name="etn2_hist">Historia</string>
+    <string name="etn3_fil">Filosofia</string>
+    <string name="Btn_calc">CALCULAR</string>
+    <string name="tv_result">Resultado</string>
+</resources>

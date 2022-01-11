@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mi Calculadora (Check Box)</string>
+    <string name="etn_num1">Introduzca operando 1</string>
+    <string name="etn_num2">Introduzca operando 2</string>
+    <string name="cb_sum">Sumar</string>
+    <string name="cb_rest">Restar</string>
+    <string name="cb_mult">Multiplicar</string>
+    <string name="cb_div">Dividir</string>
+    <string name="btn_calc">CALCULAR</string>
+    <string name="tv_result">RESULTADO</string>
+</resources>
