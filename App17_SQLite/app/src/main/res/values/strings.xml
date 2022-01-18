@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="tvCodigo">Código</string>
+    <string name="tvDescripcion">Descripción</string>
+    <string name="tvPrecio">Precio</string>
+    <string name="etCodigo">Introduzca un código</string>
+    <string name="etDescripcion">Descripción del artículo</string>
+    <string name="etPrecio">€</string>
+    <string name="btnCrear">CREAR</string>
+    <string name="btnModificar">MODIFICAR</string>
+    <string name="btnConsultar">CONSULTAR</string>
+    <string name="btnEliminar">ELIMINAR</string>
+</resources>
