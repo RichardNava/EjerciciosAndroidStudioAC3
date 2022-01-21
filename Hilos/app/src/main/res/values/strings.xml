@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hilos</string>
+    <string name="tv_count">Contador</string>
+    <string name="btn_act">Activar</string>
+</resources>

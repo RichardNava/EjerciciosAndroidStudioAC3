@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App22_ReproductorAudio</string>
+
+    <string name="btnPlay">Reproducir</string>
+    <string name="btnStop">Parar</string>
+    <string name="btnLoop">Repetir</string>
+    <string name="btnNext">Siguiente</string>
+    <string name="btnPrev">Anterior</string>
+    <string name="ivCover">Portada</string>
+</resources>
