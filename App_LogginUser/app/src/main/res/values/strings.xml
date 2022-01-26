@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App Login</string>
+    <string name="etEmail">Usuario (Email)</string>
+    <string name="etPass">Password</string>
+    <string name="etName">Nombre</string>
+    <string name="etApellidos">Apellidos</string>
+    <string name="ivAvatar">Foto de perfil</string>
+    <string name="btnEnter">Entrar</string>
+    <string name="btnRegister">Registrar</string>
+    <string name="btnBack">Volver</string>
+    <string name="etWelcome">Bienvenido </string>
+</resources>
